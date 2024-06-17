@@ -2,8 +2,6 @@ package com.poncho_boncho.cinema.api.model;
 import jakarta.persistence.*;
 import org.springframework.stereotype.Repository;
 
-import java.util.List;
-
 @Repository
 @Entity
 @Table(name = "staff")
