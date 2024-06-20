@@ -22,6 +22,7 @@ public class StaffService {
     }
 
     public Staff addStaff(Staff staff) {
+        System.out.println("cccccccc");
         return staffRepository.saveAndFlush(staff);
     }
 
