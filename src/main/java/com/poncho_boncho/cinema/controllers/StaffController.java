@@ -1,4 +1,4 @@
-package com.poncho_boncho.cinema.api.cpntrollers;
+package com.poncho_boncho.cinema.controllers;
 
 import com.poncho_boncho.cinema.api.model.Staff;
 import com.poncho_boncho.cinema.client.StaffRestClient;
